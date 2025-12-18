@@ -1,4 +1,5 @@
-# Proyecto de examen
+# Proyecto de examen (versión código)
+
 ## Información adicional
 
 Autor: Julian Homola
